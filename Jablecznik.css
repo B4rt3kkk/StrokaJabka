@@ -103,8 +103,8 @@ h6{
 }
 .sekcja3{
     background-image: url(apple_watch.jpg);
-    background-size: 140% 800px;
+    background-size: 100% 80px;
     background-repeat: no-repeat;
-    height: 800px;
+    height: 80px;
     background-position-x: center;
 }
